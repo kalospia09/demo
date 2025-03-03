@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "description": "React TypeScript on Replit, using Vite bundler",
-  "homepage": "https://yourusername.github.io/unit-converter",
+  "homepage": "https://kalospia09.github.io/demo",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
